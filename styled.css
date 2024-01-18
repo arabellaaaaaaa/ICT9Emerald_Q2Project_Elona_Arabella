@@ -1,0 +1,18 @@
+#logo{background-color: powderblue; padding: 2px; text-align: center; margin-left: auto; 
+	margin-right: auto; border: solid; border-color: cadetblue;}
+body{background-color: lightblue; border-color: floralwhite; background-image: url("download.jfif"); text-align: center;}
+#Philippines{background-color: powderblue; padding: 2px; width: 50%; text-align: center; 
+	margin-left: auto; margin-right: auto; border: solid; border-color: cadetblue;}
+p {font-size: small; font-style: italic;}
+#vigan{background-color: khaki; padding: 2px; width: 20%; text-align: center; position: relative; right: -100px; 
+	top: -1px;  border: solid; border-color: blanchedalmond;}
+#d1{background-color: khaki; padding: 2px; width: 20%; text-align: center; position: relative; right: -100px;
+ border: solid; border-color: blanchedalmond;}
+#palawan{background-color: khaki; padding: 2px; width: 20%; text-align: center; margin-left: auto; margin-right: auto;
+position: relative; right: -10px; top: -411px;  border: solid; border-color: blanchedalmond;}
+#d2{background-color: khaki; padding: 2px; width: 20%; text-align: center; margin-left: auto; margin-right: auto;
+position: relative; right: -10px; top: -411px; border: solid; border-color: blanchedalmond;}
+#mayon{background-color: khaki; padding: 2px; width: 20%; text-align: center; margin-left: auto; margin-right: auto;
+position: relative; right: -400px; top: -835px;  border: solid; border-color: blanchedalmond;}
+#d3{background-color: khaki; padding: 2px; width: 20%; text-align: center; margin-left: auto; margin-right: auto;
+position: relative; right: -400px; top: -835px; border: solid; border-color: blanchedalmond;}
